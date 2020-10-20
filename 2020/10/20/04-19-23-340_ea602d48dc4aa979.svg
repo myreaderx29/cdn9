@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="53.908211mm"
+   height="170.70404mm"
+   viewBox="-315 -750 203.74757 645.18065"
+   id="svg180"
+   sodipodi:docname="Dice_sum_central_limit_theorem_vertical.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata184">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Comparison of probability density functions for the sum of n dice to illustrate the central limit theorem</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2304"
+     inkscape:window-height="1216"
+     id="namedview182"
+     showgrid="false"
+     inkscape:zoom="1.2929688"
+     inkscape:cx="314.8171"
+     inkscape:cy="306.0012"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg180"
+     fit-margin-top="3"
+     fit-margin-bottom="3"
+     fit-margin-right="3"
+     fit-margin-left="3"
+     units="mm" />
+  <title
+     id="title2">Comparison of probability density functions for the sum of n dice to illustrate the central limit theorem</title>
+  <desc
+     id="desc4">Comparison of probability density functions, p(k) for the sum of n fair 6-sided dice to show their convergence to a normal distribution with increasing n, in accordance to the central limit theorem; illustrated by CMG Lee. In the individual probability distribution functions, the minima, maxima and mods are labelled. In the bottom-right graph, smoothed profiles of the previous graphs are rescaled, superimposed and compared with a normal distribution, shown in black.</desc>
+  <defs
+     id="defs56">
+    <path
+       id="bars_1"
+       d="M 10,0 V -167 M 20,0 V -167 M 30,0 V -167 M 40,0 V -167 M 50,0 V -167 M 60,0 v -167"
+       inkscape:connector-curvature="0" />
+    <path
+       id="bars_2"
+       d="M 20,0 V -28 M 30,0 V -56 M 40,0 V -83 M 50,0 V -111 M 60,0 V -139 M 70,0 V -167 M 80,0 V -139 M 90,0 V -111 M 100,0 v -83 m 10,83 v -56 m 10,56 v -28"
+       inkscape:connector-curvature="0" />
+    <path
+       id="bars_3"
+       d="M 30,0 V -5 M 40,0 V -14 M 50,0 V -28 M 60,0 V -46 M 70,0 V -69 M 80,0 V -97 M 90,0 V -116 M 100,0 V -125 M 110,0 V -125 M 120,0 V -116 M 130,0 v -97 m 10,97 v -69 m 10,69 v -46 m 10,46 v -28 m 10,28 v -14 m 10,14 v -5"
+       inkscape:connector-curvature="0" />
+    <path
+       id="bars_4"
+       d="M 40,0 V -1 M 50,0 V -3 M 60,0 V -8 M 70,0 V -15 M 80,0 V -27 M 90,0 V -43 M 100,0 V -62 M 110,0 V -80 M 120,0 V -96 M 130,0 V -108 M 140,0 V -113 M 150,0 V -108 M 160,0 v -96 m 10,96 v -80 m 10,80 v -62 m 10,62 v -43 m 10,43 v -27 m 10,27 v -15 m 10,15 v -8 m 10,8 v -3 m 10,3 v -1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="bars_5"
+       d="m 50,0 v 0 m 10,0 v -1 m 10,1 v -2 m 10,2 v -5 m 10,5 v -9 m 10,9 V -16 M 110,0 V -26 M 120,0 V -39 M 130,0 V -54 M 140,0 V -69 M 150,0 V -84 M 160,0 V -95 M 170,0 V -100 M 180,0 V -100 M 190,0 v -95 m 10,95 v -84 m 10,84 v -69 m 10,69 v -54 m 10,54 v -39 m 10,39 v -26 m 10,26 v -16 m 10,16 v -9 m 10,9 v -5 m 10,5 v -2 m 10,2 v -1 m 10,1 v 0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="line_1"
+       d="M 10,-167 H 20 30 40 50 60"
+       inkscape:connector-curvature="0" />
+    <path
+       id="line_2"
+       d="m 20,-28 10,-28 10,-27 10,-28 10,-28 10,-28 10,28 10,28 10,28 10,27 10,28"
+       inkscape:connector-curvature="0" />
+    <path
+       id="line_3"
+       d="m 30,-5 10,-9 10,-14 10,-18 10,-23 10,-28 10,-19 10,-9 h 10 l 10,9 10,19 10,28 10,23 10,18 10,14 10,9"
+       inkscape:connector-curvature="0" />
+    <path
+       id="line_4"
+       d="m 40,-1 10,-2 10,-5 10,-7 10,-12 10,-16 10,-19 10,-18 10,-16 10,-12 10,-5 10,5 10,12 10,16 10,18 10,19 10,16 10,12 10,7 10,5 10,2"
+       inkscape:connector-curvature="0" />
+    <path
+       id="line_5"
+       d="m 50,0 10,-1 10,-1 10,-3 10,-4 10,-7 10,-10 10,-13 10,-15 10,-15 10,-15 10,-11 10,-5 h 10 l 10,5 10,11 10,15 10,15 10,15 10,13 10,10 10,7 10,4 10,3 10,1 10,1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="line_normal"
+       d="m 0,-0.771 3,-0.19 3,-0.231 3,-0.28 3,-0.338 3,-0.406 3,-0.485 3,-0.576 3,-0.681 3,-0.801 3,-0.939 3,-1.093 3,-1.268 3,-1.461 3,-1.677 3,-1.914 3,-2.173 3,-2.453 3,-2.757 3,-3.079 3,-3.422 3,-3.782 3,-4.157 3,-4.541 3,-4.934 3,-5.33 3,-5.721 3,-6.106 3,-6.475 3,-6.823 3,-7.141 3,-7.424 3,-7.664 3,-7.853 3,-7.985 3,-8.054 3,-8.054 3,-7.979 3,-7.828 3,-7.595 3,-7.283 3,-6.888 3,-6.415 3,-5.865 3,-5.243 3,-4.557 3,-3.811 3,-3.018 3,-2.185 3,-1.322 3,-0.443 3,0.443 3,1.322 3,2.185 3,3.018 3,3.811 3,4.557 3,5.243 3,5.865 3,6.415 3,6.888 3,7.283 3,7.595 3,7.828 3,7.979 3,8.054 3,8.054 3,7.985 3,7.853 3,7.664 3,7.424 3,7.141 3,6.823 3,6.475 3,6.106 3,5.721 3,5.33 3,4.934 3,4.541 3,4.157 3,3.782 3,3.422 3,3.079 3,2.757 3,2.453 3,2.173 3,1.914 3,1.677 3,1.461 3,1.268 3,1.093 3,0.939 3,0.801 3,0.681 3,0.576 3,0.485 3,0.406 3,0.338 3,0.28 3,0.231 3,0.19"
+       inkscape:connector-curvature="0" />
+    <g
+       id="axes">
+      <path
+         d="M 0,-200 V 0"
+         id="path17"
+         inkscape:connector-curvature="0" />
+      <text
+         x="-2"
+         y="-195"
+         font-style="italic"
+         id="text19"
+         style="font-style:italic;stroke:none">p(k)</text>
+      <text
+         x="-2"
+         y="-175"
+         id="text21"
+         style="stroke:none">0.18</text>
+      <text
+         x="-2"
+         y="-155"
+         id="text23"
+         style="stroke:none">0.16</text>
+      <text
+         x="-2"
+         y="-135"
+         id="text25"
+         style="stroke:none">0.14</text>
+      <text
+         x="-2"
+         y="-115"
+         id="text27"
+         style="stroke:none">0.12</text>
+      <text
+         x="-2"
+         y="-95"
+         id="text29"
+         style="stroke:none">0.10</text>
+      <text
+         x="-2"
+         y="-75"
+         id="text31"
+         style="stroke:none">0.08</text>
+      <text
+         x="-2"
+         y="-55"
+         id="text33"
+         style="stroke:none">0.05</text>
+      <text
+         x="-2"
+         y="-35"
+         id="text35"
+         style="stroke:none">0.04</text>
+      <text
+         x="-2"
+         y="-15"
+         id="text37"
+         style="stroke:none">0.02</text>
+      <text
+         x="-2"
+         y="5"
+         id="text39"
+         style="stroke:none">0.00</text>
+    </g>
+    <g
+       id="axes_200"
+       style="text-anchor:end">
+      <use
+         xlink:href="#axes"
+         id="use42"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <path
+         d="M 200,0 V -200 M 0,-200 H 200 M 0,-180 H 200 M 0,-160 H 200 M 0,-140 H 200 M 0,-120 H 200 M 0,-100 H 200 M 0,-80 H 200 M 0,-60 H 200 M 0,-40 H 200 M 0,-20 H 200 M 0,0 h 200"
+         id="path44"
+         inkscape:connector-curvature="0" />
+      <text
+         x="200"
+         y="15"
+         font-style="italic"
+         id="text46"
+         style="font-style:italic;stroke:none">k</text>
+    </g>
+    <g
+       id="axes_320"
+       style="text-anchor:end">
+      <use
+         xlink:href="#axes"
+         id="use49"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <path
+         d="M 320,0 V -200 M 0,-200 H 320 M 0,-180 H 320 M 0,-160 H 320 M 0,-140 H 320 M 0,-120 H 320 M 0,-100 H 320 M 0,-80 H 320 M 0,-60 H 320 M 0,-40 H 320 M 0,-20 H 320 M 0,0 h 320"
+         id="path51"
+         inkscape:connector-curvature="0" />
+      <text
+         x="320"
+         y="15"
+         font-style="italic"
+         id="text53"
+         style="font-style:italic;stroke:none">k</text>
+    </g>
+  </defs>
+  <g
+     id="g5092">
+    <use
+       transform="matrix(0.5189135,0,0,0.5189135,-288.88353,-632.74225)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       id="use130"
+       xlink:href="#axes_320"
+       style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.5" />
+    <use
+       transform="matrix(0.5189135,0,0,0.5189135,-288.88353,-632.74225)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:#0000ff;stroke-width:8"
+       id="use66"
+       xlink:href="#bars_1" />
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text68"
+       y="-624.95856"
+       x="-283.6944">1</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text70"
+       y="-624.95856"
+       x="-278.50525">2</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text72"
+       y="-624.95856"
+       x="-273.31613">3</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text74"
+       y="-624.95856"
+       x="-268.12698">4</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text76"
+       y="-624.95856"
+       x="-262.93784">5</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text78"
+       y="-624.95856"
+       x="-257.74872">6</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text80"
+       y="-719.91974"
+       x="-270.72156">1 / 6</text>
+    <text
+       id="text5078"
+       y="-670.13812"
+       x="-218.35294"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan5076"
+         y="-670.13812"
+         x="-218.35294"
+         sodipodi:role="line"><tspan
+           id="tspan5074"
+           y="-670.13812"
+           x="-218.35294">1</tspan></tspan></text>
+  </g>
+  <g
+     id="g5103">
+    <use
+       style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.5"
+       xlink:href="#axes_320"
+       id="use4797"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.5189135,0,0,0.5189135,-288.88353,-505.64744)" />
+    <use
+       transform="matrix(0.5189135,0,0,0.5189135,-288.88353,-505.64744)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:#00cc00;stroke-width:8"
+       id="use92"
+       xlink:href="#bars_2" />
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text94"
+       y="-497.86371"
+       x="-278.50525">2</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text96"
+       y="-497.86371"
+       x="-226.61392">12</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text98"
+       y="-497.86371"
+       x="-252.55959">7</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text100"
+       y="-592.82489"
+       x="-252.55959">1 / 6</text>
+    <text
+       id="text5072"
+       y="-542.84015"
+       x="-209.07198"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan5070"
+         y="-542.84015"
+         x="-209.07198"
+         sodipodi:role="line"><tspan
+           id="tspan5068"
+           y="-542.84015"
+           x="-209.07198">2</tspan></tspan></text>
+  </g>
+  <g
+     id="g5121">
+    <use
+       style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.5"
+       xlink:href="#axes_320"
+       id="use4795"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.5189135,0,0,0.5189135,-288.88353,-379.16218)" />
+    <use
+       transform="matrix(0.5189135,0,0,0.5189135,-288.88353,-379.16218)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:#cc9900;stroke-width:8"
+       id="use112"
+       xlink:href="#bars_3" />
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text114"
+       y="-371.37845"
+       x="-273.31613">3</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text116"
+       y="-371.37845"
+       x="-195.47911">18</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;letter-spacing:-1.03782701;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text118"
+       letter-spacing="-2"
+       y="-371.37845"
+       x="-234.39761">10,11</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text120"
+       y="-445.5831"
+       x="-234.39761">1 / 8</text>
+    <text
+       id="text5066"
+       y="-416.59711"
+       x="-187.41638"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan5064"
+         y="-416.59711"
+         x="-187.41638"
+         sodipodi:role="line"><tspan
+           id="tspan5062"
+           y="-416.59711"
+           x="-187.41638">3</tspan></tspan></text>
+  </g>
+  <g
+     id="g5132">
+    <use
+       style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.5"
+       xlink:href="#axes_320"
+       id="use4763"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.5189135,0,0,0.5189135,-288.88353,-251.5519)" />
+    <use
+       transform="matrix(0.5189135,0,0,0.5189135,-288.88353,-251.5519)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:#ff0000;stroke-width:8"
+       id="use132"
+       xlink:href="#bars_4" />
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text134"
+       y="-243.7682"
+       x="-268.12698">4</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text136"
+       y="-243.7682"
+       x="-164.3443">24</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text138"
+       y="-243.7682"
+       x="-216.23566">14</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text140"
+       y="-314.85934"
+       x="-216.23566">73 / 648</text>
+    <text
+       id="text5060"
+       y="-295.62979"
+       x="-171.9481"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan5058"
+         y="-295.62979"
+         x="-171.9481"
+         sodipodi:role="line"><tspan
+           id="tspan5056"
+           y="-295.62979"
+           x="-171.9481">4</tspan></tspan></text>
+  </g>
+  <g
+     id="g5143">
+    <use
+       transform="matrix(0.5189135,0,0,0.5189135,-288.88353,-125.06666)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       id="use150"
+       xlink:href="#axes_320"
+       style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.5" />
+    <use
+       transform="matrix(0.5189135,0,0,0.5189135,-288.88353,-125.06666)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:#9900ff;stroke-width:8"
+       id="use152"
+       xlink:href="#bars_5" />
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text154"
+       y="-117.28296"
+       x="-262.93784">5</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text156"
+       y="-117.28296"
+       x="-133.20949">30</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;letter-spacing:-1.03782701;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text158"
+       letter-spacing="-2"
+       y="-117.28296"
+       x="-198.07367">17,18</text>
+    <text
+       style="font-size:6.22696209px;font-family:sans-serif;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.25945675"
+       id="text160"
+       y="-179.55258"
+       x="-198.07367">65 / 648</text>
+    <text
+       id="text5054"
+       y="-182.96973"
+       x="-164.85468"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan5052"
+         y="-182.96973"
+         x="-164.85468"
+         sodipodi:role="line"><tspan
+           id="tspan5050"
+           y="-182.96973"
+           x="-164.85468">5</tspan></tspan></text>
+  </g>
+</svg>
+<!-- Perl script to create above; please do not remove.
+#!/usr/bin/perl
+use Math::Trig;
+
+sub choose {
+ my ($N, $K) = @_;
+ if ($K * 2 > $N) { $K = $N - $K; } # use smaller half
+ if ($K < 0) { return 0; }
+ my $p_1 = 1, $i_1;
+ for ($i_1 = 1; $i_1 <= $K; ++$i_1) {
+  $p_1 *= ($N - $K + $i_1) / $i_1;
+ }
+ return $p_1;
+}
+
+sub n_way {
+ my ($s, $n, $k) = @_;
+ my $sum = 0, $i;
+ for ($i = 0; $i <= ($k - $n) / $s; ++$i) {
+  $sum += ((-1) ** $i) * &choose($n, $i) * &choose($k - $s * $i - 1, $n - 1);
+ }
+ return $sum;
+}
+
+sub p {
+ my ($s, $n, $k) = @_;
+ return &n_way($s, $n, $k) / $s ** $n;
+}
+
+my $sqrt_2_pi = sqrt(2 * pi);
+sub pdf {
+ my ($x, $mu, $sigma) = @_;
+ my $x_minus_mu = $x - $mu;
+ return exp($x_minus_mu * $x_minus_mu / (-2 * $sigma * $sigma)) /
+        ($sqrt_2_pi * $sigma);
+}
+
+my $double_dash = "-" . "-";
+my $file_out = $0; $file_out =~ s/[^\.]*$/svg/;
+# s = sides per die, 6, n = number of dice, p = probability
+my $s = 6, $n, $k, $p, $x, $y;
+my $out_defs_line = "";
+my $out_defs_bars = "";
+for ($n = 1; $n <= 5; ++$n) {
+# {$n = 30;
+ $out_defs_line .= qq`  <path id="line_${n}" d="`;
+ $out_defs_bars .= qq`  <path id="bars_${n}" d="`;
+ for ($k = $n; $k <= $n * $s; ++$k) {
+  $x = $k * 10;
+  $y = -int(&p($s, $n, $k) * 1000 + 0.5);
+  $out_defs_line .= ($k == $n ? "M" : " L") . " ${x} ${y}";
+  $out_defs_bars .= qq`M ${x} 0 V ${y} `;
+ }
+ $out_defs_line .= qq`"/>\n`;
+ $out_defs_bars .= qq`"/>\n`;
+}
+
+my $out_normal = "";
+for ($i = -5; $i < 5; $i += 0.1) {
+ $x = sprintf("%.0f", ($i + 5) * 30);
+ $y = sprintf("%.3f", &pdf($i, 0, 1.5) * -750);
+ $out_normal .= ($out_normal eq "" ? "M" : " L") . " ${x} ${y}";
+}
+
+open (FILE_OUT, ">$file_out");
+print FILE_OUT qq`<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-315 -750 640 768">
+ <title>Comparison of probability density functions for the sum of n dice to illustrate the central limit theorem</title>
+ <desc>Comparison of probability density functions, p(k) for the sum of n fair 6-sided dice to show their convergence to a normal distribution with increasing n, in accordance to the central limit theorem; illustrated by CMG Lee. In the individual probability distribution functions, the minima, maxima and mods are labelled. In the bottom-right graph, smoothed profiles of the previous graphs are rescaled, superimposed and compared with a normal distribution, shown in black.</desc>
+ <defs>
+${out_defs_bars}
+${out_defs_line}
+  <path id="line_normal" d="${out_normal}"/>
+  <g id="axes">
+   <path d="M 0 -200 V 0"/>
+   <text x="-2" y="-195" font-style="italic" stroke="none">p(k)</text>
+   <text x="-2" y="-175" stroke="none">0.18</text>
+   <text x="-2" y="-155" stroke="none">0.16</text>
+   <text x="-2" y="-135" stroke="none">0.14</text>
+   <text x="-2" y="-115" stroke="none">0.12</text>
+   <text x="-2" y="-95" stroke="none">0.10</text>
+   <text x="-2" y="-75" stroke="none">0.08</text>
+   <text x="-2" y="-55" stroke="none">0.05</text>
+   <text x="-2" y="-35" stroke="none">0.04</text>
+   <text x="-2" y="-15" stroke="none">0.02</text>
+   <text x="-2" y="5" stroke="none">0.00</text>
+  </g>
+  <g id="axes_200" text-anchor="end">
+   <use xlink:href="#axes"/>
+   <path d="M 200 0 V -200 M 0 -200 H 200 M 0 -180 H 200 M 0 -160 H 200 M 0 -140 H 200 M 0 -120 H 200 M 0 -100 H 200 M 0 -80 H 200 M 0 -60 H 200 M 0 -40 H 200 M 0 -20 H 200 M 0 0 H 200"/>
+   <text x="200" y="15" font-style="italic" stroke="none">k</text>
+  </g>
+  <g id="axes_320" text-anchor="end">
+   <use xlink:href="#axes"/>
+   <path d="M 320 0 V -200 M 0 -200 H 320 M 0 -180 H 320 M 0 -160 H 320 M 0 -140 H 320 M 0 -120 H 320 M 0 -100 H 320 M 0 -80 H 320 M 0 -60 H 320 M 0 -40 H 320 M 0 -20 H 320 M 0 0 H 320"/>
+   <text x="320" y="15" font-style="italic" stroke="none">k</text>
+  </g>
+ </defs>
+ <g font-family="sans-serif" font-size="15" text-anchor="middle" stroke="#000000" stroke-width="0.5" fill="#000000">
+  <g transform="translate(-270,-520)">
+   <text x="100" y="-210" font-size="20" stroke="none"><tspan font-style="italic">n</tspan><tspan>&#160;= 1</tspan></text>
+   <use xlink:href="#axes_200"/>
+   <use xlink:href="#bars_1" stroke="#0000ff" stroke-width="8"/>
+   <text x="10" y="15" stroke="none">1</text>
+   <text x="20" y="15" stroke="none">2</text>
+   <text x="30" y="15" stroke="none">3</text>
+   <text x="40" y="15" stroke="none">4</text>
+   <text x="50" y="15" stroke="none">5</text>
+   <text x="60" y="15" stroke="none">6</text>
+   <text x="35" y="-168" stroke="none">1 / 6</text>
+  </g>
+  <g transform="translate(-270,-260)">
+   <text x="100" y="-210" font-size="20" stroke="none"><tspan font-style="italic">n</tspan><tspan>&#160;= 2</tspan></text>
+   <use xlink:href="#axes_200"/>
+   <use xlink:href="#bars_2" stroke="#00cc00" stroke-width="8"/>
+   <text x="20" y="15" stroke="none">2</text>
+   <text x="120" y="15" stroke="none">12</text>
+   <text x="70" y="15" stroke="none">7</text>
+   <text x="70" y="-168" stroke="none">1 / 6</text>
+  </g>
+  <g transform="translate(-270,0)">
+   <text x="100" y="-210" font-size="20" stroke="none"><tspan font-style="italic">n</tspan><tspan>&#160;= 3</tspan></text>
+   <use xlink:href="#axes_200"/>
+   <use xlink:href="#bars_3" stroke="#cc9900" stroke-width="8"/>
+   <text x="30" y="15" stroke="none">3</text>
+   <text x="180" y="15" stroke="none">18</text>
+   <text x="105" y="15" stroke="none" letter-spacing="-2">10,11</text>
+   <text x="105" y="-128" stroke="none">1 / 8</text>
+  </g>
+  <g transform="translate(0,-520)">
+   <text x="150" y="-210" font-size="20" stroke="none"><tspan font-style="italic">n</tspan><tspan>&#160;= 4</tspan></text>
+   <use xlink:href="#axes_320"/>
+   <use xlink:href="#bars_4" stroke="#ff0000" stroke-width="8"/>
+   <text x="40" y="15" stroke="none">4</text>
+   <text x="240" y="15" stroke="none">24</text>
+   <text x="140" y="15" stroke="none">14</text>
+   <text x="140" y="-122" stroke="none">73 / 648</text>
+  </g>
+  <g transform="translate(0,-260)">
+   <text x="150" y="-210" font-size="20" stroke="none"><tspan font-style="italic">n</tspan><tspan>&#160;= 5</tspan></text>
+   <use xlink:href="#axes_320"/>
+   <use xlink:href="#bars_5" stroke="#9900ff" stroke-width="8"/>
+   <text x="50" y="15" stroke="none">5</text>
+   <text x="300" y="15" stroke="none">30</text>
+   <text x="175" y="15" stroke="none" letter-spacing="-2">17,18</text>
+   <text x="175" y="-105" stroke="none">65 / 648</text>
+  </g>
+
+  <rect x="0" y="-200" width="300" height="200" fill="none"/>
+  <use xlink:href="#line_1" transform="scale(6.0,1.198) translate(-10,0)" stroke="#0000ff" stroke-width="1" fill="none"/>
+  <use xlink:href="#line_2" transform="scale(3.0,1.198) translate(-20,0)" stroke="#00cc00" stroke-dasharray="1,1" fill="none"/>
+  <use xlink:href="#line_3" transform="scale(2.0,1.600) translate(-30,0)" stroke="#cc9900" stroke-dasharray="4,1" fill="none"/>
+  <use xlink:href="#line_4" transform="scale(1.5,1.770) translate(-40,0)" stroke="#ff0000" stroke-dasharray="4,1,1,1" fill="none"/>
+  <use xlink:href="#line_5" transform="scale(1.2,2.000) translate(-50,0)" stroke="#9900ff" stroke-dasharray="4,1,4,1" fill="none"/>
+  <use xlink:href="#line_normal" stroke="#000000" stroke-width="1" fill="none"/>
+ </g>
+</svg>
+
+<!${double_dash} Perl script to create above; please do not remove.
+`;
+open (FILE_IN, $0);
+while (<FILE_IN>) { print FILE_OUT $_; }
+close FILE_IN;
+print FILE_OUT "${double_dash}>";
+close FILE_OUT;
+-->
+
